@@ -41,6 +41,13 @@ Decision Tree Regressor Model Testing:
 - Test R2 Score: 0.5960564372160062
 - Test RMSE: 1055.685
 
+## Feature Importances and Coefficient Models
+
+![LinRegPlot](https://user-images.githubusercontent.com/118643932/233561623-342ccfe0-abed-461f-ade3-e1ae275a71ea.png)
+
+![RanForPlot](https://user-images.githubusercontent.com/118643932/233561599-1ba5016f-07c5-4042-89c6-cd4f1d858f66.png)
+
+
 ## Recommendations:
 
 - Looking at the two models, I would have to recommend the Regression Tree model and it has the lowest variance in the y 
