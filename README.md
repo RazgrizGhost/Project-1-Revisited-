@@ -43,9 +43,10 @@ Decision Tree Regressor Model Testing:
 
 ## Feature Importances and Coefficient Models
 
-![LinRegPlot](https://user-images.githubusercontent.com/118643932/233561623-342ccfe0-abed-461f-ade3-e1ae275a71ea.png)
+![image](https://user-images.githubusercontent.com/118643932/233569285-c242fd77-c1d3-462f-89ac-d13acff6c210.png)
+> Looking at the Top 3 Impactful Features. The plot is showing Outlet_Type_Supermarket Type2, Outlet_Identifier_OUT010, and Outlet_Location_Type_Tier 3 contributing as the top impactful features.
 
-![RanForPlot](https://user-images.githubusercontent.com/118643932/233561599-1ba5016f-07c5-4042-89c6-cd4f1d858f66.png)
+![image](https://user-images.githubusercontent.com/118643932/233569744-4dc6a7f8-e96f-484f-883e-1010deaf436a.png)
 
 
 ## Recommendations:
