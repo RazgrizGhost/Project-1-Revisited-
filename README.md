@@ -43,10 +43,15 @@ Decision Tree Regressor Model Testing:
 
 ## Feature Importances and Coefficient Models
 
-![LinRegPlot](https://user-images.githubusercontent.com/118643932/233561623-342ccfe0-abed-461f-ade3-e1ae275a71ea.png)
+![LinRegPlot](https://user-images.githubusercontent.com/118643932/233594577-1518539c-bdb1-43ac-9c91-6f409d04e681.png)
 
-![RanForPlot](https://user-images.githubusercontent.com/118643932/233561599-1ba5016f-07c5-4042-89c6-cd4f1d858f66.png)
+![RanForPlot](https://user-images.githubusercontent.com/118643932/233594618-fce4f508-325a-433c-8cba-2796dcb52e26.png)
 
+# SHAP Models
+
+![image](https://user-images.githubusercontent.com/118643932/233595008-c8df9320-52d2-4737-8545-eacdcd42cadf.png)
+
+![image](https://user-images.githubusercontent.com/118643932/233596287-aaa77794-8078-44ba-a127-52501f696762.png)
 
 ## Recommendations:
 
